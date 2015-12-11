@@ -1,10 +1,14 @@
 # git-readme-template
 A template which helps you to create README.md file in github
 
+#### Links
+
 - [https://help.github.com/articles/markdown-basics/]
 - [https://help.github.com/articles/writing-on-github/]
 - [https://help.github.com/articles/github-flavored-markdown/]
 - [https://guides.github.com/features/mastering-markdown/]
+
+#### Styling text
 
 *Italic Text*
 
@@ -12,7 +16,7 @@ A template which helps you to create README.md file in github
 
 **_Bold Italic Text_**
 
-###Lists
+### Lists
 
 #### Unordered Lists
 
@@ -40,3 +44,9 @@ A template which helps you to create README.md file in github
   4. Item 3.1
   5. Item 3.2
     6. Item 3.2.1 
+
+#### Task lists
+
+- [x] This is a completed Task Item
+  - [x] This is a completed SubTask Item
+- [ ] this is an incomplete item
