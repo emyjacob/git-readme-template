@@ -16,6 +16,8 @@ A template which helps you to create README.md file in github
 
 **_Bold Italic Text_**
 
+~~Strikethrough Text.~~
+
 ### Lists
 
 #### Unordered Lists
