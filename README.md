@@ -1,5 +1,5 @@
 # git-readme-template
-A template which helps you to create README.md file in github
+A template which helps you to create README.md file in github :smile:
 
 #### Links
 
@@ -7,6 +7,7 @@ A template which helps you to create README.md file in github
 - https://help.github.com/articles/writing-on-github/
 - https://help.github.com/articles/github-flavored-markdown/
 - https://guides.github.com/features/mastering-markdown/
+- [emoji cheat sheet](http://www.emoji-cheat-sheet.com/)
 
 #### Styling text
 
