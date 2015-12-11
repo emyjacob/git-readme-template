@@ -52,3 +52,25 @@ A template which helps you to create README.md file in github
 - [x] This is a completed Task Item
   - [x] This is a completed SubTask Item
 - [ ] this is an incomplete item
+
+### Code formatting
+
+#### Single line
+
+` var x = 2 `
+
+#### Multiple lines
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+### Syntax Highlighting
+
+```js
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
